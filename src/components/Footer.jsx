@@ -18,11 +18,11 @@ const Footer = () => {
         <Typography variant="body2" color="text.secondary" align="center">
           {"Built with "}
           <Link color="inherit" href="https://mui.com/">
-            sourabh
+            Kuldeep
           </Link>
           {" and "}
           <Link color="inherit" href="https://reactjs.org/">
-            bhakar
+            Poonia
           </Link>
         </Typography>
       </Container>
